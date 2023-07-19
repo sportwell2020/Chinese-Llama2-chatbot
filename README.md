@@ -9,3 +9,4 @@ This is an application for LLM,like  Llama2 etc.
 构建和谐的讨论社区。除了在社区发帖，还欢迎加“Llama讨论群”，共同交流Llama应用与微调技术
 
 加入微信群讨论😍😍
+<img>https://github.com/sportwell2020/Chinese-Llama2-chatbot/edit/main/Llama研究群.jpg</img>
