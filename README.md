@@ -8,7 +8,7 @@ This is an application for LLM,like  Llama2 etc.
 Llama2最快模型接入测试: https://llama.perplexity.ai
 
 🤔 LLM开发技术与领域应用交流群
-构建和谐的讨论社区。除了在社区发帖，还欢迎加“Llama讨论群”，共同交流Llama应用与微调技术
+构建和谐的讨论社区。除了在社区发帖，还欢迎加“Llama讨论群”，共同交流Llama应用与微调技术，也欢迎志愿者小伙伴加入开发团队
 
 加入微信群讨论😍😍
 ![讨论群](https://github.com/sportwell2020/Chinese-Llama2-chatbot/blob/main/Llama%E7%A0%94%E7%A9%B6%E7%BE%A4.jpg)
